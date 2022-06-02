@@ -7,4 +7,3 @@
 |no.1|.ipynb||
 |no.2|H_Series_data.ipynb||
 |no.3|population.ipynb||
-"""
